@@ -30,7 +30,11 @@ string nazwazmiennej6 = 'informatyka';
 
 ## Operatory logiczne:
 
-
+| Operator  | Definicja                                            |
+| :----:    |    :---                                              |
+| **!**     | przypisanie (to nie operator równości)               |
+| **||**    | dodawanie (zmiana znaku na dodatni)                  |
+| **&&**    | odejmowanie (zmiana znaku na ujemny)                 |
 
 ## Operatory arytmetyczne:
 
@@ -49,10 +53,10 @@ string nazwazmiennej6 = 'informatyka';
 
 ## Operatory przypisania:
 
-| Operator  | Krótszy zapis | Dłuższy zapis      |
-| :----:    |    :---       |     :---           |
-| **+=**    | zmienna+=2    | zmienna=zmienna+2  |
-| **-=**    | zmienna-=2    | zmienna=zmienna-2  |
-| **∗=**    | zmienna∗=2    | zmienna=zmienna∗2  |
-| **/=**    | zmienna/=2    | zmienna=zmienna/2  |
-| **%=**    | zmienna%=2    | zmienna=zmienna%2  |
+| Operator  | Krótszy zapis        | Dłuższy zapis                 |
+| :----:    |    :---              |          :---                 |
+| **+=**    | zmienna+=2           | zmienna=zmienna+2             |
+| **-=**    | zmienna-=2           | zmienna=zmienna-2             |
+| **∗=**    | zmienna∗=2           | zmienna=zmienna∗2             |
+| **/=**    | zmienna/=2           | zmienna=zmienna/2             |
+| **%=**    | zmienna%=2           | zmienna=zmienna%2             |
