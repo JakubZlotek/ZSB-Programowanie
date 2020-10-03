@@ -30,4 +30,29 @@ string nazwazmiennej6 = 'informatyka';
 
 ## Operatory logiczne:
 
+
+
 ## Operatory arytmetyczne:
+
+| Operator  | Definicja                                            |
+| :----:    |    :---                                              |
+| **=**     | przypisanie (to nie operator równości)               |
+| **+**     | dodawanie (zmiana znaku na dodatni)                  |
+| **-**     | odejmowanie (zmiana znaku na ujemny)                 |
+| **.*.**   | mnożenie                                             |
+| **/**     | dzielenie                                            |
+| **%**     | dzielenie modulo (reszta z dzielenia)                |
+| **++x**   | pre-inkrementacja                                    |
+| **x++**   | post-inkrementacja                                   |
+| **--x**   | pre-dekrementacja                                    |
+| **x--**   | post-dekrementacja                                   |
+
+## Operatory przypisania:
+
+| Operator  | Definicja                                            |
+| :----:    |    :---                                              |
+| **+=**     | przypisanie (to nie operator równości)               |
+| **-=**     | dodawanie (zmiana znaku na dodatni)                  |
+| ***=**     | odejmowanie (zmiana znaku na ujemny)                 |
+| **/=**   | mnożenie                                             |
+| **%=**     | dzielenie                                            |
