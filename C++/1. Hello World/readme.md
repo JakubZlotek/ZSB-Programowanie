@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    cout << "Hello World";
+    cout << "Hello World" << endl;
     return 0;
 }
 
@@ -25,5 +25,11 @@ int main()
 ...
 }
 ```
-4. Polecenie `cout` oznacza <ins>**C**</ins>onsole <ins>**Out**</ins>put
-
+4. Polecenie `cout` oznacza <ins>**C**</ins>onsole <ins>**Out**</ins>put. Dalej mamy znak strumienia, który informuje niejako co dzieje się z danymi. Znak strumienia jest integralny z poleceniami `cout` oraz `cin`. Pomiędzy znakami strumienia wstawiamy tekst, który znajduje się w cudzysłowiach. Na końcu możemy dodać polecenie `endl`, które oznacza przejście do nowej linijki
+```cpp
+    cout << "Hello World" << endl;
+```
+5. Skrypt kończymy poleceniem `return`;
+```cpp
+return 0;
+```
