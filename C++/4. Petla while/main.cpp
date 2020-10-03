@@ -1,16 +1,16 @@
-#include <iostream> //Standardowo ładujemy bibliotekę iostream dzięki której działają polecenia takie jak: cout, cin
+#include <iostream>
 
-using namespace std; //Używamy po to, aby nie musieć do poleceń cout oraz cin dodawać przedrostków std::
+using namespace std;
 
-int x = 15, liczba; //deklarujemy dwie zmienne całkowite. X = 15 oraz liczba, która nie ma żadnej wartości
+int x = 15, liczba;
 
-int main() //Pomiędzy klamerkami int main() wykonuje się cały kod. Bardzo ważne jest pilnowanie, aby elementy naszego programu nie "wystawały" poza zewnętrzne klamerki ;)
+int main()
 {
-    while (liczba < 15) { //Pętla będzie się wykonywała dopóki wprowadzona przez użytkownika liczba będzie mniejsza niż 15
-        cout << "Podaj liczbe: "; //Wyświetlamy napis "Podaj liczbę"
-        cin >> liczba; //Pobieramy liczbe z klawiatury
+    while (liczba < 15) {
+        cout << "Podaj liczbe: ";
+        cin >> liczba;
     }
 
-    return 0; //Po wykonaniu powyższego skryptu kończymy pracę programu
+    return 0;
 }
 
