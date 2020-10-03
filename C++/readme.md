@@ -12,3 +12,6 @@ float nazwazmiennej3 = 32.21;
 bool nazwazmiennej4 = true;
 char nazwazmiennej5 = 'K';
 ```
+## Operatory logiczne:
+
+#### - **==** - rowne sobie
