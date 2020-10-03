@@ -15,14 +15,6 @@ char nazwazmiennej5 = 'K';
 string nazwazmiennej6 = 'informatyka';
 ```
 ## Operatory porównania:
- - **==** - równe
- - **!=** - różne
- - **===** - identyczne (równe z uwzględnieniem typu zmiennej)
- - **!==** - nieidentyczne (różne z uwzględnieniem typu zmiennej)
- - **<** - większe od
- - **>** - mniejsze od
- - **<=** - większe lub równe od
- - **>=** - mniejsze lub równe od
 
 | Operator  | Definicja                                            |
 | :----:    |    :---                                              |
