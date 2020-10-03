@@ -24,10 +24,17 @@ string nazwazmiennej6 = 'informatyka';
  - **<=** - większe lub równe od
  - **>=** - mniejsze lub równe od
 
-| Operator    | Definicja   |
-| :----:     |    :---     |
-| **==**      | równe       |
-| **!=**   | różne        |
+| Operator  | Definicja                                            |
+| :----:    |    :---                                              |
+| **==**    | równe                                                |
+| **!=**    | różne                                                |
+| **===**   | identyczne (równe z uwzględnieniem typu zmiennej)    |
+| **!==**   | nieidentyczne (różne z uwzględnieniem typu zmiennej) |
+| **<**     | większe od                                           |
+| **>**     | mniejsze od                                          |
+| **<=**    | większe lub równe od                                 |
+| **>=**    | mniejsze lub równe od                                |
+
 
 ## Operatory logiczne:
 
