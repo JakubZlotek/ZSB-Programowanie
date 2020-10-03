@@ -12,8 +12,18 @@ double nazwazmiennej2 - = 32.2184523467;
 float nazwazmiennej3 = 32.21;
 bool nazwazmiennej4 = true;
 char nazwazmiennej5 = 'K';
-char nazwazmiennej5 = 'informatyka';
+string nazwazmiennej6 = 'informatyka';
 ```
+## Operatory porównania:
+ - **==** - równe
+ - **!=** - różne
+ - **===** - identyczne (równe z uwzględnieniem typu zmiennej)
+ - **!==** - nieidentyczne (różne z uwzględnieniem typu zmiennej)
+ - **<** - większe od
+ - **>** - mniejsze od
+ - **<=** - większe lub równe od
+ - **>=** - mniejsze lub równe od
+
 ## Operatory logiczne:
 
-#### * **==** - rowne sobie
+## Operatory arytmetyczne:
