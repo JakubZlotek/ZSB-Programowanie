@@ -49,10 +49,10 @@ string nazwazmiennej6 = 'informatyka';
 
 ## Operatory przypisania:
 
-| Operator  | Definicja                                            |
-| :----:    |    :---                                              |
-| **+=**    | zmienna+=2 to to samo co zmienna=zmienna+2           |
-| **-=**    | zmienna-=2 to to samo co zmienna=zmienna-2           |
-| **∗=**    | zmienna∗=2 to to samo co zmienna=zmienna∗2           |
-| **/=**    | zmienna/=2 to to samo co zmienna=zmienna/2           |
-| **%=**    | zmienna%=2 to to samo co zmienna=zmienna%2           |
+| Operator  | Krótszy zapis | Dłuższy zapis      |
+| :----:    |    :---       |     :---           |
+| **+=**    | zmienna+=2    | zmienna=zmienna+2  |
+| **-=**    | zmienna-=2    | zmienna=zmienna-2  |
+| **∗=**    | zmienna∗=2    | zmienna=zmienna∗2  |
+| **/=**    | zmienna/=2    | zmienna=zmienna/2  |
+| **%=**    | zmienna%=2    | zmienna=zmienna%2  |
