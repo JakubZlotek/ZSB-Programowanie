@@ -10,3 +10,7 @@ int main()
 }
 
 ```
+## 1. Importujemy bibliotekę iostream
+```cpp
+#include <iostream>
+...
