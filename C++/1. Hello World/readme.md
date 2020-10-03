@@ -10,7 +10,8 @@ int main()
 }
 
 ```
-## 1. Importujemy bibliotekę iostream
+#### 1. Importujemy bibliotekę iostream
 ```cpp
 #include <iostream>
 ```
+#### 2. Dzięki tym 3 wyrazom nie musimy przed poleceniami `cout` oraz `cin`
