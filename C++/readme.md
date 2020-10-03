@@ -33,7 +33,7 @@ string nazwazmiennej6 = 'informatyka';
 | Operator  | Nazwa     | Definicja                                                  |
 | :----:    |    :---   |          :---                                              |
 | **!**     | negacja   | Zanegowanie, czyli zwrócenie wartości przeciwnej           |
-| **∥**     | lub       | Co najmniej jedna z podanych wartości musi być prawdziwa   |
+| **││**    | lub       | Co najmniej jedna z podanych wartości musi być prawdziwa   |
 | **&&**    | i         | Wszystkie wartości muszą być prawdziwe                     |
 
 ## Operatory arytmetyczne:
