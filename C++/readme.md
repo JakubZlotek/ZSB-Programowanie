@@ -24,6 +24,11 @@ string nazwazmiennej6 = 'informatyka';
  - **<=** - większe lub równe od
  - **>=** - mniejsze lub równe od
 
+| Operator    | Definicja   |
+| :----:     |    :---     |
+| **==**      | równe       |
+| **!=**   | różne        |
+
 ## Operatory logiczne:
 
 ## Operatory arytmetyczne:
