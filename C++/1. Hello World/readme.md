@@ -10,19 +10,19 @@ int main()
 }
 
 ```
-#### 1. Importujemy bibliotekę iostream
+1. Importujemy bibliotekę iostream
 ```cpp
 #include <iostream>
 ```
-#### 2. Dzięki tym 3 wyrazom nie musimy przed poleceniami `cout` oraz `cin` dodawać `std::`
+2. Dzięki tym 3 wyrazom nie musimy przed poleceniami `cout` oraz `cin` dodawać `std::`
 ```cpp
 using namespace std;
 ```
-#### 3. Cały program jaki będzie się u nas wykonywał musi znajdować się pomiędzy klamerkami `int main()`
+3. Cały program jaki będzie się u nas wykonywał musi znajdować się pomiędzy klamerkami `int main()`
 ```cpp
 int main()
 {
 ...
 }
 ```
-#### 4. Polecenie `cout` oznacza **C**onsole **Out**put
+4. Polecenie `cout` oznacza **C**onsole **Out**put
