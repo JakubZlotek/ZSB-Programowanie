@@ -25,5 +25,5 @@ int main()
 ...
 }
 ```
-4. Polecenie `cout` oznacza **C**onsole **Out**put
+4. Polecenie `cout` oznacza <ins>**C**</ins>onsole <ins>**Out**</ins>put
 
