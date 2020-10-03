@@ -18,14 +18,14 @@ string nazwazmiennej6 = 'informatyka';
 
 | Operator  | Definicja                                            |
 | :----:    |    :---                                              |
-| **'=='**  | równe                                                |
-| **'!='**  | różne                                                |
-| **'==='** | identyczne (równe z uwzględnieniem typu zmiennej)    |
-| **'!=='** | nieidentyczne (różne z uwzględnieniem typu zmiennej) |
-| **'<'**   | większe od                                           |
-| **'>'**   | mniejsze od                                          |
-| **'<='**  | większe lub równe od                                 |
-| **'>='**  | mniejsze lub równe od                                |
+| **==**    | równe                                                |
+| **!=**    | różne                                                |
+| **===**   | identyczne (równe z uwzględnieniem typu zmiennej)    |
+| **!==**   | nieidentyczne (różne z uwzględnieniem typu zmiennej) |
+| **<**     | większe od                                           |
+| **>**     | mniejsze od                                          |
+| **<=**    | większe lub równe od                                 |
+| **>=**    | mniejsze lub równe od                                |
 
 
 ## Operatory logiczne:
@@ -36,23 +36,23 @@ string nazwazmiennej6 = 'informatyka';
 
 | Operator  | Definicja                                            |
 | :----:    |    :---                                              |
-| **'='**   | przypisanie (to nie operator równości)               |
-| **'+'**   | dodawanie (zmiana znaku na dodatni)                  |
-| **'-'**   | odejmowanie (zmiana znaku na ujemny)                 |
-| **'*'**   | mnożenie                                             |
-| **'/'**   | dzielenie                                            |
-| **'%'**   | dzielenie modulo (reszta z dzielenia)                |
-| **'++x'** | pre-inkrementacja                                    |
-| **'x++'** | post-inkrementacja                                   |
-| **'--x'** | pre-dekrementacja                                    |
-| **'x--'** | post-dekrementacja                                   |
+| **=**     | przypisanie (to nie operator równości)               |
+| **+**     | dodawanie (zmiana znaku na dodatni)                  |
+| **-**     | odejmowanie (zmiana znaku na ujemny)                 |
+| **∗**     | mnożenie                                             |
+| **/**     | dzielenie                                            |
+| **%**     | dzielenie modulo (reszta z dzielenia)                |
+| **++x**   | pre-inkrementacja                                    |
+| **x++**   | post-inkrementacja                                   |
+| **--x**   | pre-dekrementacja                                    |
+| **x--**   | post-dekrementacja                                   |
 
 ## Operatory przypisania:
 
 | Operator  | Definicja                                            |
 | :----:    |    :---                                              |
-| **'+='**  | przypisanie (to nie operator równości)               |
-| **'-='**  | dodawanie (zmiana znaku na dodatni)                  |
-| **'*='**  | odejmowanie (zmiana znaku na ujemny)                 |
-| **'/='**  | mnożenie                                             |
-| **'%='**  | dzielenie                                            |
+| **+=**    | zmienna+=2 to to samo co zmienna=zmienna+2           |
+| **-=**    | zmienna-=2 to to samo co zmienna=zmienna-2           |
+| **∗=**    | zmienna∗=2 to to samo co zmienna=zmienna∗2           |
+| **/=**    | zmienna/=2 to to samo co zmienna=zmienna/2           |
+| **%=**    | zmienna%=2 to to samo co zmienna=zmienna%2           |
