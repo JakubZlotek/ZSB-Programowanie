@@ -5,7 +5,7 @@ string imie;
 
 int main()
 {
-    cout << "podaj imie: ";
+    cout << "Podaj Imie: ";
     cin >> imie;
     cout << "Witaj, " << imie;
     return 0;
