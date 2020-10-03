@@ -30,11 +30,11 @@ string nazwazmiennej6 = 'informatyka';
 
 ## Operatory logiczne:
 
-| Operator  | Definicja                                            |
-| :----:    |    :---                                              |
-| **!**     | przypisanie (to nie operator równości)               |
-| **||**    | dodawanie (zmiana znaku na dodatni)                  |
-| **&&**    | odejmowanie (zmiana znaku na ujemny)                 |
+| Operator  | Nazwa     | Definicja                                                  |
+| :----:    |    :---   |          :---                                              |
+| **!**     | negacja   | Zanegowanie, czyli zwrócenie wartości przeciwnej           |
+| **||**    | lub       | Co najmniej jedna z podanych wartości musi być prawdziwca  |
+| **&&**    | i         | Wszystkie wartości muszą być prawdziwe                     |
 
 ## Operatory arytmetyczne:
 
