@@ -5,3 +5,7 @@ Technik Informatyk oraz osób chcących nauczyć się programowania
 ### Twórcy
 - [Jakub Złotek](https://github.com/JakubZlotek)
 - [Daniel Kamiński](https://github.com/EVBlue)
+
+
+
+#### Bełżyce 2020
