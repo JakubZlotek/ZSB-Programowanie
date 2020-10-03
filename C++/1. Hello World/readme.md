@@ -25,4 +25,6 @@ int main()
 ...
 }
 ```
-4. Polecenie `cout` oznacza **C**onsole **Out**put
+<<<<<<< HEAD
+=======
+
