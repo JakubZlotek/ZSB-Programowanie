@@ -1,5 +1,5 @@
 ## Uwaga!:
- W języku pytyhon w przeciwieństwie do wiekszości języków musimy pamiętać o 2 rzeczach:
+ W języku python w przeciwieństwie do wiekszości języków musimy pamiętać o 2 rzeczach:
   - **Nie stosujemy średników na końcu linjki**
   - **Ułożenie kodu ma znaczenie**
     - *ZŁY KOD:*
