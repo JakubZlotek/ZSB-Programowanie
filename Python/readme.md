@@ -21,15 +21,15 @@
 
 ## Typy zmiennych:
 
-| Typ       | Przykład                                             |
-| :----:    |    :---                                              |
-| **Tekstowe**   | str                                               |
-| **Liczbowe**    | int, float, complex                                                |
-| **Zakresowe**   | list, tuple, range    |
-| **Mapujące**   | dict |
-| **Deklararujące**     | set, frozenset                                         |
-| **Logiczne**     | bool                                         |
-| **Binarne**    | bytes, bytearray, memoryview                                |
+| Typ               | Przykład                                     |
+| :----:            |    :---                                      |
+| **Tekstowe**      | str                                          |
+| **Liczbowe**      | int, float, complex                          |
+| **Zakresowe**     | list, tuple, range                           |
+| **Mapujące**      | dict                                         |
+| **Deklararujące** | set, frozenset                               |
+| **Logiczne**      | bool                                         |
+| **Binarne**       | bytes, bytearray, memoryview                 |
 
 
 #### Deklaracja zmiennej:
