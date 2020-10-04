@@ -26,7 +26,7 @@
 | **Tekstowe**   | str                                               |
 | **Liczbowe**    | int, float, complex                                                |
 | **Zakresowe**   | list, tuple, range    |
-| **Mapoujące**   | dict |
+| **Mapujące**   | dict |
 | **Deklararujące**     | set, frozenset                                         |
 | **Logiczne**     | bool                                         |
 | **Binarne**    | bytes, bytearray, memoryview                                |
