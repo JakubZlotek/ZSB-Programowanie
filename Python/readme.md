@@ -33,7 +33,7 @@
 
 
 #### Deklaracja zmiennej:
-```cpp
+```python
 x = "Czarny pies"
 y = 231
 z = [1,3,5]
