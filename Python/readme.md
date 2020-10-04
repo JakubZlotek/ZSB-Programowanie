@@ -1,8 +1,8 @@
 ## Uwaga!:
  W języku pytyhon w przeciwienstwie do wiekszosci jezyków musimy pamietać o 2 rzeczach:
-  - **Nie stosujemy średników na koncu linjki**
+  - **Nie stosujemy średników na końcu linjki**
   - **Ułożenie kodu ma znaczenie**
-    - <span style="color:red"> *ZŁY KOD:*</span><br>
+    - *ZŁY KOD:*
       ```pytyhon
       x = 5
       if x = 5:
@@ -10,7 +10,7 @@
       else:
       print("nie zgadza sie")
       ```
-    - <span style="color:green"> *DOBRY KOD:*</span><br>
+    - *DOBRY KOD:*
       ```pytyhon
       x = 5
       if x = 5:
