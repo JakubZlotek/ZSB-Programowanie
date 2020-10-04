@@ -3,8 +3,7 @@
 using namespace std;
 
 float oceny[5];
-float suma=0,
-srednia;
+float suma=0, srednia;
 
 int main()
 {
