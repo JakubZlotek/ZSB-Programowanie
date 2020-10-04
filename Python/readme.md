@@ -1,0 +1,40 @@
+## Uwaga!:
+ W języku pytyhon w przeciwienstwie do wiekszosci jezyków musimy pamietać o 2 rzeczach:
+  - **Nie stosujemy średników na koncu linjki**
+  - **Ułożenie kodu ma znaczenie**
+    - <span style="color:red"> *ZŁY KOD:*</span><br>
+      ```pytyhon
+      x = 5
+      if x = 5:
+      print("zgadza sie")
+      else:
+      print("nie zgadza sie")
+      ```
+    - <span style="color:green"> *DOBRY KOD:*</span><br>
+      ```pytyhon
+      x = 5
+      if x = 5:
+        print("zgadza sie")
+      else:
+        print("nie zgadza sie")
+      ```
+
+## Typy zmiennych:
+
+| Typ       | Przykład                                             |
+| :----:    |    :---                                              |
+| **Tekstowe**   | str                                               |
+| **Liczbowe**    | int, float, complex                                                |
+| **Zakresowe**   | list, tuple, range    |
+| **Mapoujące**   | dict |
+| **Deklararujące**     | set, frozenset                                         |
+| **Logiczne**     | bool                                         |
+| **Binarne**    | bytes, bytearray, memoryview                                |
+
+
+#### Deklaracja zmiennej:
+```cpp
+x = "Czarny pies"
+y = 231
+z = [1,3,5]
+```
