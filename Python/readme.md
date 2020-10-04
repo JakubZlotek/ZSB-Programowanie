@@ -3,7 +3,7 @@
   - **Nie stosujemy średników na końcu linjki**
   - **Ułożenie kodu ma znaczenie**
     - *ZŁY KOD:*
-      ```pytyhon
+      ```python
       x = 5
       if x = 5:
       print("zgadza sie")
@@ -11,7 +11,7 @@
       print("nie zgadza sie")
       ```
     - *DOBRY KOD:*
-      ```pytyhon
+      ```python
       x = 5
       if x = 5:
         print("zgadza sie")
