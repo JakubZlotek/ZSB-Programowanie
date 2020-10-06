@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int x = 15, liczba;
+int liczba = 10;
 
 int main()
 {
@@ -13,4 +13,3 @@ int main()
 
     return 0;
 }
-
