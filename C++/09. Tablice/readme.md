@@ -26,7 +26,7 @@ int main()
 
 | Zmienna   | Wartość           | Przykład wartości  |
 | :----:    |    :---           |                    |
-| x[0]      | Pierwsza wartość  | ziemniaki          |
-| x[1]      | Druga wartość     | marchewka          |
-| x[2]      | Trzecia wartość   | koperek            |
-| x[3]      | Czwarta wartość   | jabłka             |
+| x[]      | Pierwsza wartość  | ziemniaki          |
+| x[]      | Druga wartość     | marchewka          |
+| x[]      | Trzecia wartość   | koperek            |
+| x[]      | Czwarta wartość   | jabłka             |
