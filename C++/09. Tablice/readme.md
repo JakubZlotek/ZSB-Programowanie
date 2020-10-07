@@ -25,8 +25,8 @@ int main()
 1. Tablice można określić jako zbiór danych, które przechowywane są pod jedną nazwą
 
 | Zmienna   | Wartość           | Przykład wartości  |
-| :----:    |    :---           |                    |
-| x[]      | Pierwsza wartość  | ziemniaki          |
-| x[]      | Druga wartość     | marchewka          |
-| x[]      | Trzecia wartość   | koperek            |
-| x[]      | Czwarta wartość   | jabłka             |
+| :----:    |    :---           | :---               |
+| x[0]      | Pierwsza wartość  | ziemniaki          |
+| x[1]      | Druga wartość     | marchewka          |
+| x[2]      | Trzecia wartość   | koperek            |
+| x[3]      | Czwarta wartość   | jabłka             |
